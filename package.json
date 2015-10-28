@@ -1,0 +1,23 @@
+{
+  "name": "alt.test",
+  "version": "1.0.0",
+  "description": "Alt test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiwc/alt.test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiwc/alt.test/issues"
+  },
+  "homepage": "https://github.com/xiwc/alt.test#readme",
+  "dependencies": {
+    "alt": "^0.17.6",
+    "react": "^0.14.0"
+  }
+}
